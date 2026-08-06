@@ -11,7 +11,7 @@ Python concepts are revised only when they are required for API development.
 ## Progress
 
 - [x] Day 1: REST API fundamentals, GET/POST routes and validation
-- [ ] Day 2: Complete CRUD, PUT, PATCH and DELETE
+- [x] Day 2: Complete CRUD, PUT, PATCH, DELETE and filtering
 - [ ] Day 3: SQLite database integration
 - [ ] Day 4: User authentication and JWT
 - [ ] Day 5: Production structure, testing and final project
