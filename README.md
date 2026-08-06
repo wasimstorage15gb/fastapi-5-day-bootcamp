@@ -30,6 +30,19 @@ Python concepts are revised only when they are required for API development.
 - HTTP status codes
 - Error handling
 
+- ## Current Features
+
+- Product creation
+- Product listing
+- Product search
+- Category filtering
+- Price filtering
+- Full product replacement using PUT
+- Partial product updates using PATCH
+- Product deletion
+- Duplicate-name validation
+- Structured HTTP error handling
+
 ## Project Structure
 
 ```text
